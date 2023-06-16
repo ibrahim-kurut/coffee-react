@@ -1,0 +1,28 @@
+.menuCard {
+    background-color: var(--bg-color) !important;
+    border: none !important
+}
+
+.menuImg {
+    width: 400px;
+    position: relative;
+}
+
+.menuImg img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+.menuImg .price {
+    width: fit-content;
+    height: fit-content;
+    background-color: #da9f5b;
+    padding: 1rem 1.3rem;
+    border-radius: 100%;
+    position: absolute;
+    right: 0px;
+    top: -10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

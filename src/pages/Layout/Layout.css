@@ -1,0 +1,27 @@
+.navbar-brand {
+    text-transform: capitalize;
+}
+
+.mynavbar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+}
+
+
+.navbar-text span {
+    font-size: 20px;
+    cursor: pointer;
+    color: #fff;
+}
+
+.bg-brown {
+    background-color: #654530;
+}
+
+.changeColor {
+    color: #fff;
+    cursor: pointer;
+}

@@ -1,0 +1,65 @@
+.formSection {
+    background: linear-gradient(rgba(66, 40, 0, 0.8),
+            rgba(66, 40, 0, 0.8)),
+        url('../../asset/img/bg.jpg');
+    background-size: contain;
+    background-position: center;
+    color: #fff;
+    /* min-height: 500px; */
+    margin-bottom: 30px;
+}
+
+.formSection-text,
+.form-box {
+    padding: 30px 15px;
+
+}
+
+.formSection-text h1 {
+    color: #da9f5b;
+    font-size: 4rem;
+    font-weight: 500;
+}
+
+.formSection-text h4 {
+    font-size: 2.5rem;
+}
+
+li {
+    list-style: none;
+}
+
+.ckeckIcon {
+    color: #da9f5b;
+    padding-right: 10px;
+}
+
+.form-box {
+    background-color: rgba(50, 32, 28, 0.727);
+
+}
+
+.form-box input {
+    background-color: rgba(50, 32, 28, 0.0);
+    border: 1px solid #da9f5b !important;
+    border-radius: 0 !important;
+    color: #a9a8a8 !important;
+}
+
+.form-box input:focus {
+    background-color: rgba(50, 32, 28, 0.0);
+    border: 1px solid #da9f5b !important;
+}
+
+.form-box button {
+    background-color: #da9f5b;
+    border-radius: 0;
+    border: none;
+    color: black;
+}
+
+.form-box button:hover {
+    background-color: #976832;
+    border-radius: 0;
+    border: none;
+}

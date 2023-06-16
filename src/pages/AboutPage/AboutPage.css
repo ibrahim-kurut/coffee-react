@@ -1,0 +1,18 @@
+/* .aboutPage {
+    padding: 30px 0;
+    background: linear-gradient(rgba(66, 40, 0, 0.8),
+            rgba(66, 40, 0, 0.8)),
+        url('../../asset/img/bg.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    height: 40vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+.aboutPage h1 {
+    font-size: 4rem;
+}

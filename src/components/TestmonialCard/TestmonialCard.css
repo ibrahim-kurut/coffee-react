@@ -1,0 +1,45 @@
+.cardImg {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    margin: 0 auto;
+    border: 3px solid rgb(10, 10, 10);
+    border-radius: 100%;
+    overflow: hidden;
+
+}
+
+.cardImg img {
+    width: 100%;
+
+}
+
+.testimonialCard {
+    background-color: #da9f5b !important;
+    color: rgb(0, 0, 0);
+    width: 300px !important;
+    height: 300px !important;
+}
+
+.card-title {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.card-title h6 {
+    color: #6a3c06;
+    text-transform: uppercase;
+}
+
+.card-text {
+    text-align: center;
+    line-height: 1.2;
+    font-size: 14px;
+    color: #424141
+}
+
+.cardIcons {
+    display: flex;
+    justify-content: space-around;
+    color: #6a3c06;
+}

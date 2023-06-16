@@ -1,0 +1,36 @@
+.Discount {
+    padding: 30px 0;
+    background: linear-gradient(rgba(66, 40, 0, 0.8),
+            rgba(66, 40, 0, 0.8)),
+        url('../../asset/img/bg.jpg');
+    background-size: contain;
+    background-position: center;
+    /* margin-bottom: 100px; */
+    color: #fff;
+    text-align: center;
+}
+
+.discount_title {
+    font-size: 4rem;
+    font-weight: 700;
+
+}
+
+.discount_subtitle {
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.discount_text {
+    font-size: 1.5rem;
+}
+
+.myInput {
+    height: 50px;
+
+}
+
+.bg-btn {
+    background-color: rgb(218 159 91) !important;
+    border: none !important;
+}

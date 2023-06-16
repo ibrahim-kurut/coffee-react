@@ -1,0 +1,20 @@
+.myCard {
+    border: none !important;
+    padding-bottom: 10px;
+    background-color: var(--bg-color) !important;
+}
+
+.card-title {
+    font-size: 1.5rem !important;
+}
+
+.serviveImg {
+    width: 500px;
+}
+
+.icons {
+    font-size: 2rem;
+    padding-right: 10px;
+    color: rgb(109, 65, 0);
+
+}

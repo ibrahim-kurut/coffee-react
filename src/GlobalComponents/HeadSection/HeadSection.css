@@ -1,0 +1,32 @@
+.HeadSection {
+    margin-top: 10px;
+    /* background-color: aquamarine; */
+    text-align: center;
+    text-transform: capitalize;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.line {
+    width: 2px;
+    height: 50px;
+    background-color: rgb(145, 88, 3);
+}
+
+.HeadSection__title {
+    color: rgb(145, 88, 3);
+    font-weight: 400;
+
+}
+
+
+
+.HeadSection__subtitle {
+    font-size: 3rem;
+    font-weight: 500;
+}

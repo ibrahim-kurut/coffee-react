@@ -1,0 +1,43 @@
+.footerSection {
+    padding: 100px 0;
+    background: linear-gradient(rgba(66, 40, 0, 0.9),
+            rgba(66, 40, 0, 0.9)),
+        url('../../asset/img/bg.jpg');
+    background-size: contain;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.xx {
+    margin-bottom: 15px;
+}
+
+/* .footer-info {
+    text-align: left;
+} */
+
+.footer-icons {
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer-icons p {
+    width: 40px;
+    height: 40px;
+    border: 1px solid #fff;
+    font-size: 1.3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    transition: .3s ease;
+    cursor: pointer;
+}
+
+.footer-icons p:hover {
+    background-color: #fff;
+    color: #000;
+    border-radius: 10px;
+}

@@ -1,0 +1,34 @@
+.TestimonialsSection {
+  background-color: #f5a9536e !important;
+}
+
+.swiper {
+  width: 550px;
+  /* padding-top: 50px; */
+  padding-bottom: 50px;
+  margin-bottom: 10px;
+}
+
+.swiper-slide {
+  background-position: center;
+  background-size: cover;
+  width: 250px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  border-radius: 5px;
+
+
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100px;
+
+}
+
+.swiper-pagination-bullet {
+  background-color: #ca700a !important;
+}
